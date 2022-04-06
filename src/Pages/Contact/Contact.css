@@ -1,0 +1,48 @@
+h3 {
+	color: #dab026d8;
+	font-weight: 900;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.contactText {
+	margin-left: 60px;
+	margin-top: 140px;
+}
+.contact {
+	margin-left: 60px;
+
+	height: 400px;
+	margin-bottom: 50px;
+}
+.col-md-3 {
+	background: #c7ac6365;
+	padding: 4%;
+	border-top-left-radius: 0.5rem;
+	border-bottom-left-radius: 0.5rem;
+}
+.contact-info {
+	margin-top: 10%;
+}
+.contact-info img {
+	margin-bottom: 15%;
+}
+.contact-info h2 {
+	margin-bottom: 3%;
+}
+.col-md-9 {
+	background: #fff;
+	padding: 3%;
+	border-top-right-radius: 0.5rem;
+	border-bottom-right-radius: 0.5rem;
+}
+.contact-form label {
+	font-weight: 600;
+}
+.contact-form button {
+	background: #beae4d;
+	color: #fff;
+	font-weight: 600;
+	width: 25%;
+}
+.contact-form button:focus {
+	box-shadow: none;
+}

@@ -1,0 +1,23 @@
+[
+	{
+		"id": 1,
+		"packagename": "SILVER PACKAGE",
+		"description": "Classic photographers was by far the best wedding decision I made. We were putting together a small wedding on a very tight budget but I knew that getting great pictures of our day was essential! Not only did ",
+		"rate": "4",
+		"name": "Era"
+	},
+	{
+		"id": 2,
+		"packagename": "Wedding",
+		"description": "My husband and I got married in October and we had two photographers who were completely amazing. It was the best experience. If you need a photographer I would 1000000% recommend classic photographers!",
+		"rate": "5",
+		"name": "Suha"
+	},
+	{
+		"id": 3,
+		"packagename": "Baby Photoshoot",
+		"description": "We loved our photographers! They were really fun to work with and the had good ideas for pictures.They got some great shots and really worked great together, especially with our requests.our photographers Kimberlee ",
+		"rate": "5",
+		"name": "Tuba"
+	}
+]

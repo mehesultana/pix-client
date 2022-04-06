@@ -1,0 +1,44 @@
+[
+	{
+		"id": 1,
+		"name": "Nikon Z DX 50-250mm F4.5-6.3 VR Review",
+		"date": "Oct. 04, 2021",
+		"description": "The Nikon Z DX 50-250mm F4.5-6.3 VR is a super-lightweight super-zoom for your Nikon Z mirrorless camera that won't break either your back or your bank account. Is this plastic-fantastic lens worth",
+		"img": "https://www.photographyblog.com/imager/entryimages/124639/nikon_z_dx_50_250mm_f4_5_6_3_vr_review_d727fcaa0adc575dc4cf520a01bb1a8a.webp"
+	},
+	{
+		"id": 2,
+		"name": "Always Carry Your Camera",
+		"date": "Oct. 02, 2021",
+		"description": "There are two essential steps to improving your travel photography: learn how to use your camera, and carry it with you at all times.The good news is you don’t need the latest camera to capture majestic ",
+		"img": "https://www.photoblog.com/learn/wp-content/uploads/2019/09/man-on-mountain-with-camera-1024x683.jpg"
+	},
+	{
+		"id": 3,
+		"name": "10 Best Bridge Cameras in 2020",
+		"date": "Sep. 28, 2021",
+		"description": "As a photographer, I seem to wage a constant battle between quality, and portability. On one hand, I want high-resolution RAW photos that I can use professionally. On the other hand, I don’t want to carry",
+		"img": "https://www.photoblog.com/learn/wp-content/uploads/2019/11/best-bridge-cameras-990x556.jpg"
+	},
+	{
+		"id": 4,
+		"name": "Bear Necessities",
+		"date": "Oct. 11, 2021",
+		"description": "Sometimes traveling light is traveling right. When it’s mandatory, you too will find that all you usually need are just the bear necessities.Sometimes traveling light is traveling right. When it’s mandatory,",
+		"img": "https://richardbernabe.com/wp-content/uploads/2021/08/bear_necessities2.jpg"
+	},
+	{
+		"id": 5,
+		"name": "Panasonic Lumix FZ1000 II",
+		"date": "Oct. 17, 2021",
+		"description": "If you want the latest model of the Lumix FZ1000, the FZ1000 II offers additional features. The downside is that it has an increased price tag too. The FZ1000 II has a large screen (with touch screen",
+		"img": "https://www.photoblog.com/learn/wp-content/uploads/2019/11/best-bridge-cameras-2019-PanasonicLumixFZ1000-1024x913.jpg"
+	},
+	{
+		"id": 6,
+		"name": "10 Best Tripods for DSLR",
+		"date": "Oct. 12, 2021",
+		"description": "Do you need a bit of extra stability when taking photos? A tripod could be the answer. So which is the best tripod for DSLR?As a travel photographer, I’ve realized that a reliable tripod can often be more",
+		"img": "https://www.photoblog.com/learn/wp-content/uploads/2019/11/Best-Tripods-for-DSLR-990x556.jpg"
+	}
+]

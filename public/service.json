@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1,
+		"name": "SUPER SAVINGS PACKAGE",
+		"Price": "$100",
+		"Photographer": "1",
+		"ShootingTime": "5 Hours",
+		"Pictures": "Unlimited"
+	},
+	{
+		"id": 2,
+		"name": "SILVER PACKAGE",
+		"Price": "$150",
+		"Photographer": "1 Associate Photographer , 2 Photographer Work Your Event",
+		"ShootingTime": "5 Hours",
+		"Pictures": "Unlimited "
+	},
+	{
+		"id": 3,
+		"name": "GOLD PACKAGE",
+		"Price": "$300",
+		"Photographer": "1 Senior Photographer, 2 Photographer Work Your Event",
+		"ShootingTime": "7 Hours",
+		"Pictures": "Unlimited"
+	},
+	{
+		"id": 4,
+		"name": "PLATINUM PACKAGE",
+		"Price": "$500",
+		"Photographer": "2 Senior Photographer, 3 Photographer Work Your Event",
+		"ShootingTime": "7 hours",
+		"Pictures": "Unlimited"
+	},
+	{
+		"id": 5,
+		"name": "Baby Photoshoot",
+		"Price": "$100",
+		"Photographer": "1",
+		"ShootingTime": "3 hours",
+		"Pictures": "Unlimited"
+	},
+	{
+		"id": 6,
+		"name": "Wedding",
+		"Price": "$600",
+		"Photographer": "2 Senior Photographer, 3 Photographer Work Your Event",
+		"ShootingTime": "7 hours",
+		"Pictures": "Unlimited"
+	}
+]
